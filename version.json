@@ -1,12 +1,5 @@
 [
     {
-        "version": "3.0.0-beta",
-        "url": "https://www.vishal-lokare.co/test/AutoJoomer-beta.apk",
-        "releaseNotes": "Addded new features!",
-        "releaseDate": "2021-05-07T21:00:00Z",
-        "mandatory": false
-    },
-    {
         "version": "1.1",
         "url": "https://www.vishal-lokare.co/test/AutoJoomer-beta.apk",
         "releaseNotes": "First AutoJoomer version!",
